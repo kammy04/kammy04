@@ -4,7 +4,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**football-analytics-platform**](https://github.com/kammy04/football-analytics-platform) | Predicts Premier League results within ~1 point of bookmaker accuracy, clusters 16k players into style archetypes, Streamlit app | Python · scikit-learn · SQLite · Streamlit |
+| [**football-analytics-platform**](https://github.com/kammy04/football-analytics-platform) | Predicts Premier League results within ~1 point of bookmaker accuracy, clusters 16k players into style archetypes · [**live app**](https://football-analytics-platform-jkjibgwvi6bvr9cknbklu8.streamlit.app/) | Python · scikit-learn · SQLite · Streamlit |
 | [**fut-player-market-analysis**](https://github.com/kammy04/fut-player-market-analysis) | FIFA Ultimate Team market: what drives card prices, weekday price cycles, next-day price forecasting | pandas · scikit-learn · Jupyter |
 | [**imdb-tv-ratings-analysis**](https://github.com/kammy04/imdb-tv-ratings-analysis) | 877k IMDb episodes: do shows get better or worse, pilot vs finale, anime vs western animation | pandas · seaborn · Parquet · SPARQL |
 | [**telemetry-wrangling-pipeline**](https://github.com/kammy04/telemetry-wrangling-pipeline) | Cleans messy hourly machine logs into uptime/CPU/error KPIs with a data-quality report | pandas · SQLite · pytest |
