@@ -1,12 +1,4 @@
-### Hi, I'm Kammy 👋
-
-Computer Science (Co-op) student at **McMaster University**. I like turning messy data into something
-people can act on: cleaning it, modelling it, and putting it in front of users as reports, dashboards
-and small apps.
-
-**Currently into:** data wrangling and analytics · sports and gaming data · automation with Python and Google Apps Script
-
----
+### Projects
 
 #### 📊 Data & analytics
 
