@@ -13,8 +13,8 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**sheets-task-tracker-automation**](https://github.com/kammy04/sheets-task-tracker-automation) | Google Sheets task tracker that imports CSVs from Drive, validates them, keeps an audit log and emails weekly PDF reports | Apps Script · Sheets · AppSheet |
-| [**Fitness-Website**](https://github.com/kammy04/Fitness-Website) | Personalised calorie targets, exercise guides and a USDA-backed food/macro tracker | JavaScript · HTML/CSS |
+| [**sheets-task-tracker-automation**](https://github.com/kammy04/sheets-task-tracker-automation) | Google Sheets task tracker that imports CSVs from Drive, validates them, keeps an audit log and emails weekly PDF reports · [**live demo**](https://kammy04.github.io/sheets-task-tracker-automation/demo/) | Apps Script · Sheets · AppSheet |
+| [**Fitness-Website**](https://github.com/kammy04/Fitness-Website) | Personalised calorie targets, exercise guides and a USDA-backed food/macro tracker · [**live site**](https://kammy04.github.io/Fitness-Website/) | JavaScript · HTML/CSS |
 | [**Chess**](https://github.com/kammy04/Chess) | Terminal chess engine with full rules, alpha-beta search and 100+ tests including perft | C++20 · CMake · GoogleTest |
 | [**VehicleHMI_Demo**](https://github.com/kammy04/VehicleHMI_Demo) | Android vehicle-status screen demonstrating background work and safe UI updates | Kotlin · Android |
 
